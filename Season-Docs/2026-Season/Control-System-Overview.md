@@ -94,6 +94,7 @@ The intake subsystem includes:
 - Open-loop control for roller
 - Current limiting enabled
 - Idle mode: Coast
+- 2:1 gear ratio
 
 ---
 
@@ -103,6 +104,7 @@ The intake subsystem includes:
 - 1x NEO motor
 - 1x Spark MAX motor controller
 - 1x Duty Cycle Encoder connected directly to RoboRIO DIO
+- 180:1 gear ratio
 
 ### Sensor Configuration
 - Duty cycle encoder wired to DIO port
